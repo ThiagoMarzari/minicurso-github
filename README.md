@@ -15,7 +15,7 @@
 - git push -u → Empurra para o repositorio online
 
 
-```
-code teste
-
-```
+## Branch
+- git branch → Visualizar branchs
+- git checkout nome-branch → mudar para essa branch
+- git checkout -d nome-branch → Deletar branch
