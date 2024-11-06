@@ -4,7 +4,6 @@
 - git clone "link"
 
 ## Criar nova branch
-
 - git checkout -b nome-branch → Cria uma nova branch e já entra nela
 
 
@@ -14,6 +13,8 @@
 - git push -u origin nome-branch → Empurra para o repositório online, isso só quando criamos um branch nova e ela não está no github ainda
 - git push -u → Empurra para o repositorio online
 
+## Puxar do repositorio
+- git pull → Puxa todas as mudanças do repositorio online
 
 ## Branch
 - git branch → Visualizar branchs
