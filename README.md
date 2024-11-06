@@ -18,6 +18,7 @@
 - Apertar ESC
 - SHIFT + :
 - Digitar wq
+- git push -u
 
 ## Puxar do repositorio
 - git pull → Puxa todas as mudanças do repositorio online
