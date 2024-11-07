@@ -13,7 +13,7 @@
 - git push -u origin nome-branch → Empurra para o repositório online, isso só quando criamos um branch nova e ela não está no github ainda
 - git push -u → Empurra para o repositorio online
 
-## Ao dar o git commit
+### Após dar o comando git commit
 - Digitar o nome do commit no topo
 - Apertar ESC
 - SHIFT + :
