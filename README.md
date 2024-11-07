@@ -28,3 +28,6 @@
 - git checkout nome-branch → mudar para essa branch
 - git checkout -d nome-branch → Deletar branch
 - git status → Mostra alguns detalhes e a branch que estamos agora
+### Deletar branch
+- git checkout nome-branch → Para sair da branch que voce quer remover
+- git branch -d nome-branch → Para remover a branch especifica
