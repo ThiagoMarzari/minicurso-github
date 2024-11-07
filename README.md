@@ -1,4 +1,4 @@
-# curso-github
+# minicurso-github
 
 ## Clonar repositório
 - git clone "link"
