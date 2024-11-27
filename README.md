@@ -45,3 +45,7 @@
 
 - git checkout nome-branch → Para sair da branch que voce quer remover
 - git branch -d nome-branch → Para remover a branch especifica
+
+### Rollback nos arquivos
+
+- git checkout . | nomeDoArquivo
