@@ -1,5 +1,12 @@
 # minicurso-github
 
+## Siglas
+
+- U: Untracked
+  - Arquivo novo
+- M: Modified
+  - Arquivo já adicionado, porém modificado
+
 ## Clonar repositório
 
 - git clone "link"
