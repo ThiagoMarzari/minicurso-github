@@ -49,3 +49,4 @@
 ### Rollback nos arquivos
 
 - git checkout . | nomeDoArquivo
+- git reset --hard origin/nomeBranch → Volta para o status original da branch do repositório
