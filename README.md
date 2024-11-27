@@ -48,5 +48,5 @@
 
 ### Rollback nos arquivos
 
-- git checkout . | nomeDoArquivo
+- git checkout . | nomeDoArquivo → Reseta o arquivo ou tudo para o último commit
 - git reset --hard origin/nomeBranch → Volta para o status original da branch do repositório
