@@ -38,6 +38,7 @@
 
 - git branch → Visualizar branchs e ver qual branch você está
 - git branch nome-branch → Cria uma nova branch
+- git checkout -b "nome-branch" → Cria uma nova branch e já muda para ela
 - git checkout nome-branch → mudar para essa branch
 - git checkout -d nome-branch → Deletar branch
 - git status → Mostra alguns detalhes e a branch que estamos agora
